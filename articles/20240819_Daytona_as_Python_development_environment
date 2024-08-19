@@ -1,6 +1,6 @@
 ---
-title: "Title of the Article"
-description: "A brief description of what the article covers."
-date: YYYY-MM-DD
-author: "Author Name"
+title: "Daytona as a Python Development Environment"
+description: "Skipping using environment managers and using Daytona instead."
+date: 2024-08-19
+author: "Varun Seenivasan"
 ---
